@@ -18,17 +18,8 @@
     "茵蒂克絲": {
       "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@fe9d7511c6024971e186c191e0c56a78b66e6cce/model/index/index.model.json"
     },
-    "康娜": {
-      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kobayaxi/kobayaxi.model.json"
-    },
     "御坂美琴": {
       "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/mikoto/mikoto.model.json"
-    },
-    "初音": {
-      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/miku/miku.model.json"
-    },
-    "HK416 - 少女前線": {
-      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/HK416-1/normal/model.json"
     },
     "95式 - 少女前線": {
       "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@bd5e3051ea86296bb9b18b267865533a297f55ea/model/95type/95type_405.model.json"
@@ -43,7 +34,16 @@
     },
     "阿克婭": {
       "link": "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model@bba0825e33ee118ea02df1dc6318dec0fb6b8ca5/为美好的世界献上祝福！Fantastic%20Days/1014100aqua/1014100.model3.json"
-    }
+    },
+    "初音": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/miku/miku.model.json"
+    },
+    "HK416 - 少女前線": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/HK416-1/normal/model.json"
+    },
+    "康娜": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kobayaxi/kobayaxi.model.json"
+    },
   },
   "來源列表": [
     "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model", 
