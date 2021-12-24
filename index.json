@@ -31,10 +31,10 @@
       "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/HK416-1/normal/model.json"
     },
     "95式 - 少女前線": {
-      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/HK416-1/normal/model.json"
+      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@bd5e3051ea86296bb9b18b267865533a297f55ea/model/95type/95type_405.model.json"
     },
     "雪初音": {
-      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@fe9d7511c6024971e186c191e0c56a78b66e6cce/model/snow_miku/model.json"
+      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@bd5e3051ea86296bb9b18b267865533a297f55ea/model/snow_miku/model.json"
     }
   },
   "廢棄": {
