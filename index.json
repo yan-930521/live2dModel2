@@ -14,6 +14,9 @@
     },
     "雷姆": {
       "link": "https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/rem/rem.json"
+    },
+    "和泉紗霧": {
+      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/sagiri/sagiri.model.json"
     }
   },
   "random":[
@@ -32,6 +35,10 @@
     },{
       "name":"雷姆",
       "link": "https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/rem/rem.json"
+    },{
+      "name":"和泉紗霧",
+      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/sagiri/sagiri.model.json"
+    }
     }
   ],
   "來源列表": [
