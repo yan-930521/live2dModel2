@@ -16,31 +16,9 @@
       "link": "https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/rem/rem.json"
     },
     "和泉紗霧": {
-      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/sagiri/sagiri.model.json"
+      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@0cc6e5dee7ad1756c832c12fe0722156d9c0de37/model/sagiri/sagiri.model.json"
     }
   },
-  "random":[
-    {
-      "name":"時崎狂三",
-      "link": "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model@1ef61178c7c6787a950f064613c8e3be2c67e153/方舟指令/l_234600111/model.json"
-    },{
-      "name":"鳶一摺紙",
-      "link": "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model@1ef61178c7c6787a950f064613c8e3be2c67e153/方舟指令/l_234500311/model.json"
-    },{
-      "name":"五合琴里",
-      "link": "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model@1ef61178c7c6787a950f064613c8e3be2c67e153/方舟指令/l_234200211/model.json"
-    },{
-      "name":"四糸乃",
-      "link": "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model@1ef61178c7c6787a950f064613c8e3be2c67e153/方舟指令/l_234100511/model.json"
-    },{
-      "name":"雷姆",
-      "link": "https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/rem/rem.json"
-    },{
-      "name":"和泉紗霧",
-      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@7f20b02d3c8e8c737ab167503a7d2449f62de561/model/sagiri/sagiri.model.json"
-    }
-    }
-  ],
   "來源列表": [
     "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model", "@f6fd841e4a254a6266fd16f00f78f70ef8ba9cbb",
     "https://mx.paul.ren/page/",
