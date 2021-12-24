@@ -17,6 +17,24 @@
     },
     "茵蒂克絲": {
       "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@fe9d7511c6024971e186c191e0c56a78b66e6cce/model/index/index.model.json"
+    },
+    "康娜": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kobayaxi/kobayaxi.model.json"
+    },
+    "御坂美琴": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/mikoto/mikoto.model.json"
+    },
+    "初音": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/miku/miku.model.json"
+    },
+    "HK416 - 少女前線": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/HK416-1/normal/model.json"
+    },
+    "95式 - 少女前線": {
+      "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/HK416-1/normal/model.json"
+    },
+    "雪初音": {
+      "link":"https://cdn.jsdelivr.net/gh/yan-930521/live2dModel2@fe9d7511c6024971e186c191e0c56a78b66e6cce/model/snow_miku/model.json"
     }
   },
   "廢棄": {
@@ -28,9 +46,11 @@
     }
   },
   "來源列表": [
-    "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model", "@f6fd841e4a254a6266fd16f00f78f70ef8ba9cbb",
+    "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model", 
     "https://mx.paul.ren/page/",
     "https://github.com/eeg1412/Live2dRem/blob/master/live2d/model/rem/rem.json",
-    "https://github.com/journey-ad/live2d_src"
+    "https://github.com/journey-ad/live2d_src",
+    "https://github.com/iCharlesZ/vscode-live2d-models",
+    "https://github.com/luanshizhimei/live2d_models_collect"
   ]
 }
