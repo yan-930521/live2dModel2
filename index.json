@@ -43,7 +43,7 @@
     },
     "康娜": {
       "link":"https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kobayaxi/kobayaxi.model.json"
-    },
+    }
   },
   "來源列表": [
     "https://cdn.jsdelivr.net/gh/yan-930521/Live2d-model", 
